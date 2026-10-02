@@ -62,6 +62,8 @@ Every project below is **live and working** — click any of them:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-h14626864-cell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h14626864-cell)
+[![Email](https://img.shields.io/badge/Email-h14626864%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h14626864@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%20100%20873%204756-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201008734756)
 [![Products](https://img.shields.io/badge/Shipped_Products-7_Live-0a84ff?style=for-the-badge&logo=rocket&logoColor=white)](#-shipped-products)
 
 </div>
